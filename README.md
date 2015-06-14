@@ -1,2 +1,2 @@
 # SliceOfCosmos
-A minor game for Unity
+A game made in Unity
